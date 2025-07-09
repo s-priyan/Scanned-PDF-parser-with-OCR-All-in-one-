@@ -1,1 +1,2 @@
-Scanned-PDF-parser-with-OCR-All-in-one
+# Clinical-Trial-Analysis-Framework-
+
