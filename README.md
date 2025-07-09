@@ -1,2 +1,2 @@
-# Scanned-PDF-parser-with-OCR-All-in-one-
+# Scanned-PDF-parser-with-OCR-All-in-one
 
