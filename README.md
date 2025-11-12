@@ -1,6 +1,6 @@
 # 📄 Scanned-PDF-Parser-with-OCR-All-in-One
 
-A unified, production-ready OCR solution that combines the best open-source OCR engines into a single, easy-to-use pipeline. Parse scanned PDFs, images, and documents with multiple OCR backends for maximum accuracy and flexibility.
+A unified, OCR solution that combines the best open-source OCR engines into a single, easy-to-use pipeline. Parse scanned PDFs, images, and documents with multiple OCR backends for maximum accuracy and flexibility.
 
 ## 🌟 Features
 
